@@ -5,7 +5,7 @@
 text-decoration: none;
 
 }
-.div-1{
+.pos1{
     width: 461px;
 height: 50px;
 color: white;
@@ -18,10 +18,10 @@ letter-spacing: 0%;
 text-align: right;
 
 }
-.div-1>a>ul{
+.pos1>a>ul{
     color:white
 }
-.butt-1{
+.button-1{
     width: 118px;
 height: 50px;
 gap: 8px;
@@ -35,7 +35,7 @@ border: 1px solid white;
 color: white;
 
 }
-.div-2{
+.pos2{
     width: 973px;
 height: 345px;
 padding-top: 8px;
@@ -43,7 +43,7 @@ margin-top: 122px;
 margin-left: 89px;
 
 }
-.div-2>ul{
+.pos2>ul{
     color:rgba(95, 95, 95, 1);
     font-family: "Switzer";
 font-weight: 300;
@@ -61,10 +61,10 @@ left: 241px;
 
 }
 
-.span{
+.xui{
     color: white
 }
-.butt-2{
+.button-2{
     width: 135px;
 height: 54px;
 border-radius: 8px;
@@ -80,10 +80,10 @@ line-height: 110.00000000000001%;
 letter-spacing: 0%;
 
 }
-.butt-2>a{
+.button-2>a{
     color: white;
 }
-.Work{
+.temki{
     font-family: Switzer;
 font-weight: 300;
 font-size: 115px;
@@ -93,7 +93,7 @@ vertical-align: bottom;
 color: white;
 margin-top: 132px;
 }
-.View{
+.smotret{
     margin-top: 185px;
 padding: 16px 32px;
 gap: 8px;
@@ -107,7 +107,7 @@ line-height: 110.00000000000001%;
 letter-spacing: 0%;
 margin-left: 829px;
 }
-.pro{
+.propiska{
     margin-top: 53px;
     font-family: Switzer;
 font-weight: 400;
@@ -116,7 +116,7 @@ line-height: 130%;
 letter-spacing: -2%;
 color: white;
 }
-.mob{
+.moodak{
     margin-top: 12px;font-family: Switzer;
 font-weight: 300;
 font-size: 20px;
@@ -124,7 +124,7 @@ line-height: 130%;
 letter-spacing: 1%;
 color: rgba(173, 173, 173, 1);
 }
-.Service{
+.servici{
     font-family: Switzer;
 font-weight: 300;
 font-size: 115px;
@@ -165,7 +165,7 @@ line-height: 130%;
 letter-spacing: 1%;
 color: white;
 }
-.test{
+.eeeeeee{
 
 
 font-family: Switzer;
@@ -178,7 +178,7 @@ vertical-align: bottom;
 
 color: white;
 }
-.lor{
+.lorem{
     font-family: Switzer;
 font-weight: 300;
 font-size: 20px;
@@ -192,13 +192,13 @@ left: -47px;
 margin-top: 45px;
 margin-bottom: 47px;
 }
-.per{
+.poteto{
     background-color: rgba(35, 35, 35, 1);
     width: 400px;
 height: 271px;
 
 }
-.por{
+.teto{
  background-color: rgba(35, 35, 35, 1);
 width: 320px;
 height: 271px;
@@ -274,7 +274,7 @@ text-align: center;
 color: white;
 padding-bottom: 65px;
 }
-.butt-3{
+.button3{
     width: 165px;
 height: 54px;
 border-radius: 8px;
@@ -292,7 +292,7 @@ line-height: 110.00000000000001%;
 letter-spacing: 0%;
 margin-left: 45%;
 }
-.div-3>ul{
+.pos3>ul{
     font-family: Switzer;
 font-weight: 400;
 font-size: 20px;
